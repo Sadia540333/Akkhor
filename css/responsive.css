@@ -1,0 +1,188 @@
+
+/* -----------BANNER PART START---------- */
+@media ( max-width:425px ) {
+    #header_part .banner_content h2{
+        font-size: 38px;
+        line-height: 60px;
+        padding: 0px 8px;
+    }
+    #header_part .banner_content p{
+        font-size: 16px;
+        
+    }
+    #header_part .banner_content a{
+        font-size: 14px;
+        padding: 14px 18px;
+
+    }
+}
+/* -----------BANNER PART END---------- */
+
+
+/* -----------TEACHINE SYSTEM START---------- */
+@media ( max-width:425px ) {
+    #teaching_system .heading h1{
+        line-height: 65px;
+    }
+    #teaching_system .heading p{
+        width: 100%;
+        padding: 0px 8px;
+        text-align: justify;
+        padding-bottom: 20px;
+
+    }
+    #teaching_system .teaching_item .card{
+        padding: 10px 10px 5px 10px;
+    }
+}
+@media ( max-width:768px ) {
+    #teaching_system .heading p{
+        width: 100%;
+        text-align: justify;
+    }
+    #teaching_system{
+        padding: 70px 0px;
+    }
+    #teaching_system .teaching_item .card{
+        padding: 20px 18px 10px 18px;
+    }
+    #teaching_system .teaching_item .card img{
+        margin-bottom: 20px;
+    }
+}
+/* -----------TEACHINE SYSTEM END---------- */
+
+
+/* -----------DITE SECTION START---------- */
+@media ( max-width:425px ) {
+    #diet{
+        padding-top: 50px;
+    }
+    #diet .diet_content{
+        padding: 70px 10px 50px 10px;
+    }
+    #diet .diet_content h2{
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 55px;
+    }
+    #diet .diet_content p{
+        text-align: justify;
+    }
+    #diet .diet_content .button{
+        display: block;
+    }
+    #diet .diet_content .button .btn_1{
+      text-align: center;
+    
+    }
+    #diet .diet_content .button .btn_2{
+      margin-top: 35px;
+      text-align: center;
+    
+    }
+}
+
+@media ( max-width:768px ) {
+    #diet .diet_content{
+        padding: 30px 10px 50px 10px;
+    }
+}
+
+/* -----------DITE SECTION  END---------- */
+
+
+/* ----------PRICING TABLE PART START--------- */
+@media ( max-width:425px ) {
+
+    #pricing_table .pricing_table_heading h1{
+        font-size: 38px;
+        line-height: 60px;
+        padding: 20px 8px;
+    }
+    #pricing_table .pricing_table_heading p{
+       width: 100%;
+      text-align: justify;
+      padding: 15px 8px;
+    }
+}
+@media ( max-width:768px ) {
+    #pricing_table .pricing_table_heading p{
+        width: 100%;
+       text-align: justify;
+       padding: 15px 8px;
+     }
+}
+/* -----------PRICING TABLE PART  END---------- */
+
+
+
+/* -----------REVIEW PART START---------- */
+
+@media ( max-width:425px ) {
+    #review_part{
+        padding: 150px 0px;
+    }
+    #review_part .review_content h2{
+        font-size: 35px;
+        font-weight: 500;
+        line-height: 55px;
+        text-align: center;
+    }
+    #review_part .review_content p{
+       padding: 30px 8px;
+       text-align: justify;
+    }
+    #review_part .review_content .button{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+}
+@media ( max-width:768px ) {
+    #review_part{
+        padding: 120px 0px;
+    }
+    #review_part .review_content p{
+        text-align: justify;
+     }
+    #review_part .review_content .button{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+}
+
+/* -----------REVIEW PART END---------- */
+
+
+/* -----------RESENT ARTICLES PART START---------- */
+@media ( max-width:425px ) {
+    #recent_articles{
+        padding: 80px 0px;
+    }
+    #recent_articles .heading-1 p{
+        width: 100%;
+        padding: 30px 8px;
+        text-align: justify;
+    }
+}
+@media ( max-width:768px ) {
+    #recent_articles{
+        padding: 50px 0px;
+    }
+    #recent_articles .heading-1 p{
+        width: 100%;
+        padding: 20px 8px;
+        text-align: justify;
+    }
+}
+/* -----------RESENT ARTICLES PAR END---------- */
+
+
+
+
+
+
+
+
+
